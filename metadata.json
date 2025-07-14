@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard",
+  "description": "An advanced dashboard for the PhishGuard system, providing real-time phishing detection analysis, threat intelligence, and performance monitoring for security analysts.",
+  "requestFramePermissions": []
+}
